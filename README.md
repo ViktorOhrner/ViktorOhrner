@@ -1,7 +1,9 @@
 <h1>Hello, I'm Viktor! <br/><a href="https://github.com/ViktorOhrner">Programmer</a>, <a href="www.linkedin.com/in/viktor-öhrner-175509225">Data Scientist</a></h1>
 
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2>👨‍💻 Machine Learning Projects:</h2>
 
+- <b>Machine Learning Project I</b>
+  - [MNIST Fashion](https://github.com/ViktorOhrner/)
 - <b>Data Science project I</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2> Machine Learning Projects:</h2>
