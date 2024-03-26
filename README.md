@@ -4,6 +4,7 @@
 
 - <b>Machine Learning Project I</b>
   - [MNIST Fashion](https://github.com/ViktorOhrner/MNIST-fashion)
+  - [Gland Segmentation](https://github.com/ViktorOhrner/GlandSegmentation)
 
 <h2> 🤳 Connect with me:</h2>
 
