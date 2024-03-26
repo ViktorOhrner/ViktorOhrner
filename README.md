@@ -2,9 +2,12 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Machine Learning Project I</b>
+- <b>Machine Learning Projects</b>
   - [MNIST Fashion](https://github.com/ViktorOhrner/MNIST-fashion)
   - [Gland Segmentation](https://github.com/ViktorOhrner/GlandSegmentation)
+ 
+- <b>Other Projects</b>
+  - [University Assignments](https://github.com/ViktorOhrner/University-Assignments)
 
 <h2> 🤳 Connect with me:</h2>
 
